@@ -1,0 +1,36 @@
+.App {
+  margin-top: 200px;
+  text-align: center;
+}
+.start_button {
+  text-align: center;
+  background-color:orange;
+  height: 50px;
+  width : 100px;
+  color: black;
+  font-size: large;
+}
+.stop_button{
+  text-align: center;
+  font-size: large;
+  background-color: orange;
+  height: 50px;
+  width : 100px;
+}
+.buttons{
+  margin-top: 60px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.big_container{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.containers{
+  margin-top: 30px;
+  background-color:cadetblue;
+  height: 80px;
+  width: 100px;
+}
